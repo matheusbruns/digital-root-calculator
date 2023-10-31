@@ -15,3 +15,7 @@ int result1 = DigitalRootCalculator.digitalRoot(16);      // Resultado: 7
 int result2 = DigitalRootCalculator.digitalRoot(942);     // Resultado: 6
 int result3 = DigitalRootCalculator.digitalRoot(132189);  // Resultado: 6
 int result4 = DigitalRootCalculator.digitalRoot(493193);  // Resultado: 2
+```
+## Contribuidores
+- [Matheus Rosa Bruns](https://github.com/matheusbruns)
+- [João Vitor Lembeck](https://github.com/J-Lembeck)
